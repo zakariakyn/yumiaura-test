@@ -12,3 +12,5 @@ Thank you for visiting my page ❤️
 
 P.S.: I [followed](https://github.com/yumiaura/followme) your profile because your project caught my interest.<br />
 I really appreciate your work - it helps me discover something new. Thanks for that too. <br />
+
+[LinkedIn](https://www.linkedin.com/in/olyayumi/) [Telegram](https://t.me/yumiaura) 
