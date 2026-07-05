@@ -6,7 +6,8 @@ I’ll be happy to receive any **feedback** or **code reviews** that can help me
 
 ⭐️ Feel free to **follow me** - I’d really appreciate your support!<br />
 
-[![cat](images/cat.gif)](https://github.com/yumiaura/mycat)
+[![cat](https://raw.githubusercontent.com/yumiaura/myCat/refs/heads/main/docs/cat.gif)](https://github.com/yumiaura/mycat)
+
 
 Thank you for visiting my page ❤️
 
